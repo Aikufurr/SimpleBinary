@@ -3,7 +3,7 @@ Converts string to binary and binary to string.
 
 ## Installation
 ### Using pip3
-`python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps simplebinary`
+`pip3 install simplebinary`
 ### Clone
 ```bash
 git clone https://github.com/Aikufurr/SimpleBinary
