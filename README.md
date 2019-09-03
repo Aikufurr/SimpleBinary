@@ -1,6 +1,17 @@
 # SimpleBinary
 Converts string to binary and binary to string.
 
+## Installation
+### Using pip3
+`python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps simplebinary`
+### Clone
+```bash
+git clone https://github.com/Aikufurr/SimpleBinary
+cd SimpleBinary
+pip3 install .
+```
+
+
 ## Usage Example
 ```python
 >>> import simplebinary
